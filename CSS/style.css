@@ -1,0 +1,18 @@
+#One{
+    color: blue; font-weight: bold;
+}
+.yellow{
+    background-color: rgb(243, 242, 172);
+}
+#Two{
+    color: blue;
+}
+.Three{
+    background-color: rgb(238, 204, 109); font-weight: bold;
+}
+.Four{
+    background-color: rgb(122, 200, 245); font-weight: bold;
+}
+.Five{
+    background-color: coral; font-weight: bold;
+}
